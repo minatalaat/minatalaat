@@ -1,11 +1,11 @@
-- 👋 Hi, I’m software engineer @EJADA a leading IT Services and IT Consulting Company in MENA region. 
+- 👋 Hi, I’m a software engineer @EJADA a leading IT Services and IT Consulting Company in MENA region. 
 - 👀 I’m interested in Embedded Systems and Full Stack Development .
 - 🌱 I’m currently learning Angular/.NET /ionic.
 - 💞️ I’m looking to collaborate on any Full Stack Start up project.
 - 📫 How to reach me
--    Email:minatalaatzaki@gmail.com
+-    Email: minatalaatzaki@gmail.com
 -    Phone Number:01274082180
--    LinkedIn:www.linkedin.com/in/mina-talaat-03116020b
+-    LinkedIn: www.linkedin.com/in/mina-talaat-03116020b
 
 
 <!---
