@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @minatalaat
+- 👋 Hi, I’m software engineer @EJADA a leading IT Services and IT Consulting Company in MENA region. 
 - 👀 I’m interested in Embedded Systems and Full Stack Development .
 - 🌱 I’m currently learning Angular/.NET /ionic.
 - 💞️ I’m looking to collaborate on any Full Stack Start up project.
