@@ -1,6 +1,6 @@
-- 👋 Hi, I’m a software engineer @EJADA a leading IT Services and IT Consulting Company in MENA region. 
-- 👀 I’m interested in Embedded Systems and Full Stack Development .
-- 🌱 I’m currently learning Angular/React Js/.NET /ionic.
+- 👋 Hi, I’m a Frontend Developer(Web/Mobile Apps). 
+- 👀 I’m interested in Full Stack Development.
+- 🌱 I’m currently learning Angular/React Js/.NET /ionic/ react native.
 - 💞️ I’m looking to collaborate on any Full Stack Start up project.
 - 📫 How to reach me
 -    Email: minatalaatzaki@gmail.com
